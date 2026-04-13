@@ -42,7 +42,7 @@ Most small‑to‑medium factories still rely on **manual Excel planning** or **
 
 The workflow is implemented on **n8n** (open‑source automation) and triggered weekly by a Cron schedule.
 
-![Workflow Overview](https://via.placeholder.com/800x400?text=Workflow+Diagram+-+see+JSON+file)
+![Workflow Overview](https://via.placeholder.com/800x400?text=Workflow+Diagram+-+see+JSON+file](https://github.com/Huy-Nguyen-Chualambo/AI-Material-Planning-Engine/blob/main/Workflow_image.png)
 
 ### Main components
 
